@@ -44,5 +44,3 @@ python extDataHP.py
 - Coordinate parsing handles 3-digit and 4-digit encoded formats
 - Missing/invalid values (NASA POWER flag: -999) replaced with 0
 
-## Author
-Developed for PhD research on precipitation monitoring in the Northwestern Himalayas.
