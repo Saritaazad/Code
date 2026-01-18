@@ -75,5 +75,4 @@ Re-run the script using `GNN_optimal_network_data.csv` as input to compare reduc
 - Attention weights indicate learned spatial dependencies
 - Higher importance scores = more informative locations for prediction
 
-## Author
-Developed for PhD research on optimal rain gauge network design using Graph Neural Networks in the Northwestern Himalayas.
+
