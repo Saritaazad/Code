@@ -56,5 +56,4 @@ Load Data → Train SOM → Assign Clusters → Calculate Centroids → Build KD
 ## Test Locations
 Pre-configured test points include IMD AWS station coordinates for validation against observed data.
 
-## Author
-Developed for PhD research on optimal rain gauge network design using SOM-DTW methodology in the Northwestern Himalayas.
+
